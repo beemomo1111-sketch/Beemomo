@@ -15,3 +15,11 @@
 https://beemomo1111-sketch.github.io/Beemomo/pronoun-adventure/
 
 首頁網址：https://beemomo1111-sketch.github.io/Beemomo/
+
+## 英文代名詞大冒險 第二回
+
+同一套七個人稱、同一種看圖選擇和填表格，句子全部換成新的。答錯時會標出正確答案，不附文法說明。
+
+- 遊戲資料夾：[pronoun-adventure-2/](pronoun-adventure-2/)
+- 用瀏覽器打開 [pronoun-adventure-2/index.html](pronoun-adventure-2/index.html) 就能玩。
+- 線上玩：https://beemomo1111-sketch.github.io/Beemomo/pronoun-adventure-2/
